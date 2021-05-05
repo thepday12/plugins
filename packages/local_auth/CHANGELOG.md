@@ -1,6 +1,6 @@
-## 0.6.3+5
+## 0.6.3+6
 
-- Fix bug crash app on IOS.
+- Fix bug crash app on IOS when biometric incorect 3 time.
 
 ## 0.6.3+4
 
